@@ -1,0 +1,108 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Restropress menu cart\n"
+"POT-Creation-Date: 2023-09-22 17:51+0530\n"
+"PO-Revision-Date: 2023-09-22 17:50+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: restropress-menu-cart.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-restropress-menu-cart-admin.php:91
+#: admin/class-restropress-menu-cart-admin.php:94
+msgid " Menu Cart Setting"
+msgstr ""
+
+#: admin/class-restropress-menu-cart-admin.php:98
+msgid "Enable Menu Cart"
+msgstr ""
+
+#: admin/class-restropress-menu-cart-admin.php:105
+msgid " Always display cart,if it empty "
+msgstr ""
+
+#: admin/class-restropress-menu-cart-admin.php:113
+msgid "  Choose a cart icon. "
+msgstr ""
+
+#: admin/class-restropress-menu-cart-admin.php:117
+msgid "icon 1"
+msgstr ""
+
+#: admin/class-restropress-menu-cart-admin.php:118
+msgid "icon 2"
+msgstr ""
+
+#: admin/class-restropress-menu-cart-admin.php:119
+msgid "icon 3"
+msgstr ""
+
+#: admin/class-restropress-menu-cart-admin.php:120
+msgid "icon 4"
+msgstr ""
+
+#: admin/class-restropress-menu-cart-admin.php:121
+msgid "icon 5"
+msgstr ""
+
+#: admin/class-restropress-menu-cart-admin.php:129
+msgid " What would you like to display in the menu? "
+msgstr ""
+
+#: admin/class-restropress-menu-cart-admin.php:133
+msgid "Items Only"
+msgstr ""
+
+#: admin/class-restropress-menu-cart-admin.php:134
+msgid "Price Only"
+msgstr ""
+
+#: admin/class-restropress-menu-cart-admin.php:135
+msgid "Both Items and Price"
+msgstr ""
+
+#: admin/class-restropress-menu-cart-admin.php:144
+msgid "Menu Cart"
+msgstr ""
+
+#. translators: %1$s: plugin link for restropress
+#: includes/class-restropress-menu-cart-loader.php:128
+#, php-format
+msgid ""
+" Restropress menu cart <a href=\"%1$s\" target=\"_blank\"> RestroPress </a> "
+"plugin to be installed. Please install and activate it"
+msgstr ""
+
+#: includes/class-restropress-menu-cart-loader.php:137
+#, php-format
+msgid "<a href=\"%1$s\">Settings</a>"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Restropress menu cart"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin helps you to add a Cart Menu on your header."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Magnigenie"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://restropress.com/"
+msgstr ""
